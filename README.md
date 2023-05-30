@@ -27,3 +27,11 @@ $ cd python
 $ python server.py
 $ python client.py
 ```
+
+### 3. Go
+
+```bash
+$ cd go
+$ cd server; go run server.go
+$ cd client; go run client.go
+```
